@@ -9,4 +9,4 @@ The membership fee of a member depends on whether he/she is a single club or a m
 which club he/she has access to.
 
 Finally, multi club members are awarded membership points for joining the club. Upon sign up, they are awarded 100 points which they can use to 
-redeem gifts and drinks from the store. Our program will not handle the redemption process. All that we’ll do is add 100 points to the multi club member’s account.
+redeem gifts and drinks from the store. 
